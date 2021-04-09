@@ -4,7 +4,12 @@
 #
 ## ***"Other and Self Services Analysis"***
 #
----------------------------|---------------
 **Other Services Analysis**|**Description**
-----------------|--------------------------
-Incident Date      | content 2k
+---------------------------|--------------------------
+Incident Description	
+Incident Alloted To	
+Incident Allotment Date	
+Incident Status	Open/Closed/Pending
+Incident Resolution Date	
+Incident Experience	Poor/Bad/Not Satisfactory/Satisfactory/Good/Excellent
+Incident Description	
