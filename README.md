@@ -6,13 +6,13 @@
 #
 **Other Services Analysis**  |**Description**
 -----------------------------|----------------------------------
-* Incident Description	     | House renovation **&** White wash 
-* Incident Alloted To	       | Painter
-* Incident Allotment Date	   | Last November
-* Incident Status	           | Closed
-* Incident Resolution Date	 | 14 days from the beginning
-* Incident Experience	       | Good
-* Incident Description	     |
+Incident Description	     | House renovation **&** White wash 
+Incident Alloted To	       | Painter
+Incident Allotment Date	   | Last November
+Incident Status	           | Closed
+Incident Resolution Date	 | 14 days from the beginning
+Incident Experience	       | Good
+Incident Description	     |
 #
 **Self Service Analysis**	|**Description**
 
