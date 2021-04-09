@@ -5,7 +5,7 @@
 ### ***"Other and Self Services Analysis"***
 #
 **Other Services Analysis**  |**Description**
----------------------------  |--------------------------
+-----------------------------|----------------------------------
 * Incident Description	     | House renovation **&** White wash 
 * Incident Alloted To	       | Painter
 * Incident Allotment Date	   | Last November
