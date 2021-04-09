@@ -6,17 +6,10 @@
 #
 **Other Services Analysis**|**Description**
 ---------------------------|--------------------------
-Incident Description	
----------------------------|--------------------------
-Incident Alloted To	
----------------------------|--------------------------
-Incident Allotment Date	
----------------------------|--------------------------
-Incident Status	Open/Closed/Pending
----------------------------|--------------------------
-Incident Resolution Date	
----------------------------|--------------------------
-Incident Experience	Poor/Bad/Not Satisfactory/Satisfactory/Good/Excellent
----------------------------|--------------------------
-Incident Description	
----------------------------|--------------------------
+Incident Description	     | White wash 
+Incident Alloted To	       | Painter
+Incident Allotment Date	   | Last November
+Incident Status	           | Closed
+Incident Resolution Date	 | 14 days from the begining
+Incident Experience	       | Good
+Incident Description	     |
