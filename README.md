@@ -16,8 +16,8 @@ Incident Description	  |
 #
 **Self Service Analysis**	      |**Description**
 --------------------------------|----------------------------------
-Best Liked Readme.md on github	| 
-Status of self created Readme.md	|Poor/Bad/Not Satisfactory/Satisfactory/Good/Excellent
-Improvements to be made on self created Readme.md	
+Best Liked Readme.md on github	| https://readme.md/what-is-e-commerce-testing-9-e-commerce-testing-technique-5586.html
+Status of self created Readme.md	|Good
+Improvements to be made on self created Readme.md	| 
 Description of Self Analysis	  |
 
