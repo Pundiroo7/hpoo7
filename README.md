@@ -24,7 +24,3 @@
 
 
 
-tyeryn|nrnjttn
-nyyynyy|nsyym
-
-
