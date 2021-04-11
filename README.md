@@ -24,7 +24,7 @@
 
 
 
-|tyeryn|nrnjttn|
-|nyyynyy|nsyym|
+tyeryn|nrnjttn
+nyyynyy|nsyym
 
 
